@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> نور عيني بيستناك
+> كل ليلة في هواك
+> نار الشوق بتستناك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
