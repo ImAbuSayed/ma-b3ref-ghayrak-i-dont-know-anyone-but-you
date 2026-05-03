@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma B3ref Ghayrak – I Don't Know Anyone but You |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-b3ref-ghayrak-i-dont-know-anyone-but-you/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> نور عيني بيستناك
+> كل ليلة في هواك
+> نار الشوق بتستناك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
