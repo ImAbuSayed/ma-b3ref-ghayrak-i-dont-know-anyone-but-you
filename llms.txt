@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-b3ref-ghayrak-i-dont-know-anyone-but-you/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Ma B3ref Ghayrak – I Don't Know Anyone but You](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
